@@ -1,0 +1,6 @@
+{
+  "name": "Buddy Elder AI",
+  "description": "Accessible, multi-agent AI companion, education, wellness, safety, and caregiver platform designed for elderly adults and their families.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
